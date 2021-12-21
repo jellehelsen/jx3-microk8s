@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "hcode.be"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
